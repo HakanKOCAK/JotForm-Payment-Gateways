@@ -1,0 +1,119 @@
+.Gateway{
+    width: 400px;
+    margin: 1rem;
+    box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, .56); 
+    text-align:center;
+    align-items: center;
+    border-radius: 3px;
+    background: linear-gradient(180deg, #69b7eb, #b3dbd3);
+}
+
+.Gateway-data label{
+  display:block;
+  min-width: 100%;
+  margin-bottom: 1rem;
+  font-size: 20px;
+  font-weight: bold
+}
+.Gateway-data input {
+  flex-grow: 1;
+  border: none;
+  margin-bottom: 0.9rem;
+  padding: 0 0.5em;
+  background: #f7f1f1;
+  font-size: initial;
+}
+
+.Gateway-data select {
+  flex-grow: 1;
+  border: none;
+  overflow: hidden;
+  margin-bottom: 0.9rem;
+  padding: 5px;
+  background: #f7f1f1;
+  font-size: initial;
+}
+.Gateway-data textarea {
+  flex-grow: 1;
+  border: none;
+  height: 100px;
+  width: 250px;
+  background: #f7f1f1;
+  padding: 0 0.5em;
+  font-size: initial;
+}
+.Gateway-title{
+    margin-bottom:1rem;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color:rebeccapurple
+}
+
+.Gateway-image{
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    border-radius: 3px;
+    margin-bottom: 1rem;
+}
+
+.Gateway-title-data{
+    align-items: center;
+    position: relative;
+    padding: 10px;
+    display: flex;
+}
+.Gateway-buttons {
+  flex-shrink: 0;
+  padding-left: 0.7em;
+  margin-left: auto;
+}
+
+.Gateway-buttons button{
+  border: none;
+  font-size: 1em;
+  margin: 0.4em;
+  background: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  color: black;
+}
+.Gateway-data{
+    align-items: center;
+    position: relative;
+    justify-content: unset;
+    text-align:left;
+    padding: 10px;
+
+}
+.Gateway-data p{
+   font-size: 16px;
+}
+.Gateway-data span{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.Gateway-form  button {
+  padding: 0 1.3rem;
+  border: none;
+  background: #37A7E8;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  margin-left: 5px;
+  cursor: pointer;
+  transition: background 0.2s ease-out;
+}
+.Gateway-form button:hover {
+  background: #70C3F3;
+}
+
+.Gateway-form button {
+  font-family: "Quicksand", sans-serif;
+  height: 3rem;
+}
