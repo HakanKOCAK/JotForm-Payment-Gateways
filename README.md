@@ -1,3 +1,6 @@
+This project made for a specific on JotForm so it will only work for that form. The form ID is 91833732007959 and I initiliazed it in Helpers.js file. Please go to Helpers.js and add your API key to the line I commented than you are all set. 
+
+
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
