@@ -1,4 +1,6 @@
-This project made for a specific form on JotForm so it will only work for it. The form ID is 91833732007959 and I initiliazed it in Helpers.js file. Please go to Helpers.js and add your API key to the line I commented then you are all set. 
+-This project made for a specific form on JotForm that I created on my account so it will only work if you have access the form.(This project added to GitHub for my mentor at JotForm to be analyzed.) 
+-The form ID is 91833732007959 and I initiliazed it in Helpers.js file.
+-Please go to Helpers.js and add your API key to the line I commented then you are all set. 
 
 
 <<<<<<< HEAD
